@@ -11,14 +11,13 @@ My background spans enterprise infrastructure, AWS cloud environments, third-par
 ## 🎓 Education
 
 ### Master of Science (MSCIA)
-Cybersecurity and Information Assurance
+Cybersecurity and Information Assurance @ Western Governors University
 
 Western Governors University
 
 ### Bachelor of Engineering (B.Eng.)
-Electrical, Electronics & Computer Engineering
+Electrical, Electronics & Computer Engineering @ Nnamdi Azikiwe University
 
-Nnamdi Azikiwe University
 ---
 
 ## 🏆 Certifications
