@@ -1,51 +1,145 @@
-<h1>Hi, I'm Chuck! <br/><a href="https://github.com/switice">Systems Engineer</a>, <a href="https://www.linkedin.com/in/switice/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# Hi, I'm Chukwuemeke Ikpeasonim 👋
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## Cybersecurity Engineer | CISM | SecurityX | AWS | Firewall & Security Operations
 
-<h2>👨‍💻 Cybersecurity Cerifications:</h2>
-    - <b> CompTIA PenTest+ </b>
-    - <b> CompTIA CySA+ </b>
-    - <b> ISC2 Certified in Cybersecurity </b>
-    - <b> Certiport ITS Cybersecurity </b>
+Cybersecurity professional with experience across security operations, cloud security, firewall administration, infrastructure engineering, and governance, risk, and compliance (GRC).
 
-<h2> 🤳 Connect with me:</h2>
+My background spans enterprise infrastructure, AWS cloud environments, third-party risk management, state government operations, and modern cybersecurity practices including Zero Trust, threat detection, and security engineering.
 
-# [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-# [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-# [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-# [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-#[twitter]: https://twitter.com/joshmadakor
-#[youtube]: https://www.youtube.com/c/joshmadakor
-#[instagram]: https://www.instagram.com/joshmadakor/
-#[linkedin]: https://linkedin.com/in/joshmadakor
+## 🎓 Education
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Master of Science (MSCIA)
+Cybersecurity and Information Assurance
 
-Here are some ideas to get you started:
+Western Governors University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bachelor of Engineering (B.Eng.)
+Electrical, Electronics & Computer Engineering
+
+Nnamdi Azikiwe University
+---
+
+## 🏆 Certifications
+
+- Certified Information Security Manager (CISM)
+- CompTIA SecurityX (Formerly CASP+)
+- CompTIA PenTest+
+- CompTIA CySA+
+- AWS Certified Solutions Architect – Associate
+- ISC2 Certified in Cybersecurity (CC)
+- Certiport ITS Cybersecurity
+
+---
+
+## 🔐 Current Areas of Focus
+
+- Firewall Rule Analysis & Optimization
+- Security Operations (SOC)
+- Cloud Security
+- Threat Detection & Response
+- Governance, Risk & Compliance
+- Identity & Access Management
+- Zero Trust Architecture
+- Security Engineering
+
+---
+
+## 🛠 Technical Skills
+
+### Security Operations
+
+- SIEM Monitoring
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+- Security Analytics
+- Threat Intelligence
+
+### Network Security
+
+- Check Point Firewalls
+- Access Control Policies
+- Network Segmentation
+- Firewall Rule Reviews
+- Security Monitoring
+
+### Cloud Security
+
+- AWS
+- IAM
+- Security Hub
+- CloudTrail
+- GuardDuty
+- Security Architecture
+
+### Governance & Risk
+
+- Third-Party Risk Management
+- Vendor Risk Assessments
+- NIST CSF
+- CIS Controls
+- Security Governance
+
+### Automation & Development
+
+- Python
+- Security Automation
+- REST APIs
+- Data Analysis
+
+---
+
+## 🚀 Featured Projects
+
+### Secure Vehicle API Zero Trust SOC Simulation Platform
+
+A cybersecurity engineering project demonstrating:
+
+- Zero Trust Architecture
+- SIEM Analytics
+- Detection Engineering
+- Threat Hunting
+- SOAR Automation
+- Cloud Security
+- Identity Security
+- Kubernetes Security
+- EDR Simulation
+- AI-Assisted SOC Operations
+
+Repository:
+https://github.com/switice/secure-vehicle-api-zero-trust
+
+---
+
+### Rideshare GRC Portfolio
+
+Governance, Risk Management, and Compliance case studies based on real-world business operations.
+
+Repository:
+https://github.com/switice/Rideshare-GRC-Portfolio
+
+---
+
+### GRC Portfolio
+
+Projects focused on:
+
+- Risk Assessments
+- Security Controls
+- Compliance Documentation
+- Governance Frameworks
+
+Repository:
+https://github.com/switice/grc-portfolio
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/chukwuemeke-ikpeasonim/
+
+GitHub:
+https://github.com/switice
